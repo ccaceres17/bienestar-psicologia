@@ -1,0 +1,30 @@
+:root {
+  --azul: #003366;
+  --naranja: #f57c00;
+  --blanco: #ffffff;
+  --gris: #f4f4f4;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background: var(--blanco);
+  color: #222;
+}
+
+/* Navbar personalizado */
+.navbar-custom {
+  background-color: var(--azul);
+}
+
+/* Botón primario */
+.btn-primary {
+  background-color: var(--naranja);
+  border: none;
+}
+
+.card {
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(2, 6, 23, 0.08);
+}
+
+
