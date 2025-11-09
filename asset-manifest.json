@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/bienestar-psicologia/static/css/main.9e646124.css",
+    "main.js": "/bienestar-psicologia/static/js/main.93d04e04.js",
+    "static/js/453.25ec7875.chunk.js": "/bienestar-psicologia/static/js/453.25ec7875.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/bienestar-psicologia/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/bienestar-psicologia/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "index.html": "/bienestar-psicologia/index.html",
+    "main.9e646124.css.map": "/bienestar-psicologia/static/css/main.9e646124.css.map",
+    "main.93d04e04.js.map": "/bienestar-psicologia/static/js/main.93d04e04.js.map",
+    "453.25ec7875.chunk.js.map": "/bienestar-psicologia/static/js/453.25ec7875.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e646124.css",
+    "static/js/main.93d04e04.js"
+  ]
+}
